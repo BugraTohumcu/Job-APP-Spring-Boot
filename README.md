@@ -17,7 +17,7 @@ This is a **Spring Boot** application for managing job posts, implementing **Spr
 - **Spring Data JPA**
 - **BCrypt Password Encoding**
 - **REST API**
-- **MySQL Database**
+- **PostgreSQL Database**
 
 ---
 
